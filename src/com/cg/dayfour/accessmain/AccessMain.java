@@ -1,6 +1,8 @@
 package com.cg.dayfour.accessmain;
 import com.cg.dayfour.accessmethod.AccessMethod1;
+
 public class AccessMain {
+
 	public static void main(String[] args) {
 		AccessMethod1 a = new AccessMethod1();
 		System.out.println(a.name);
@@ -21,5 +23,11 @@ public class AccessMain {
 		
 		//only public methods calls
 	}
+
+ 
+
+	 
+		 
+	
 
 }
